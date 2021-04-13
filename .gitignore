@@ -1,0 +1,9 @@
+mjkey.txt
+.idea/
+runs/
+/*.png
+**/__pycache__/
+.ipynb_checkpoints
+*.swp
+*.pdf
+*.pkl
