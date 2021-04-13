@@ -39,7 +39,7 @@ bash cwhh.sh             # run it on a task
 ```
 
 We were using [Sacred](https://github.com/IDSIA/sacred) with a remote MongoDB for experiment management.
-For release, we changed Scared to log to local files instead.
+For release, we changed Sacred to log to local files instead.
 You can change it back to MongDB if you provide credentials in `modular-rl/src/main.py`. 
 
 ## Acknowledgement
